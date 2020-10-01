@@ -1,4 +1,4 @@
-# mdb-docs-and-content
+# mdb-docs-and-content read
 The following repository contains content of the mdbootstrap.com website, especially documentation. 
 
 Within the root folder you can find two main languages - English and Chineese (simplified) (to be translated). 
